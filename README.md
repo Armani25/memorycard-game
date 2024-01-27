@@ -10,3 +10,8 @@ This particular memory card game has the following features:
 - It also keeps track of the number of flips (card turns) made by the player.
 - The game ends when all pairs of cards have been matched or when the timer runs out.
 - A refresh button is provided to reset the game and shuffle the cards for a new round.
+
+
+![MEMORY CARD GAME](https://github.com/Armani25/memorycard-game/assets/107061226/47611f49-1b2b-4ee8-b2f2-f3522a70b83e)
+
+
